@@ -53,11 +53,20 @@ Welcome to my collection of data analysis projects! This repository showcases va
 - **Highlights**:
   - Filtering, grouping, merging, and aggregating data.
 
+### 9. 🏏 IPL Data Analysis
+- **Objective**: Analyze Indian Premier League (IPL) cricket data to uncover team and player performance insights.
+- **Highlights**:
+  - Explored match outcomes, player statistics, and team performances.
+  - Visualized trends such as top run-scorers and wicket-takers.
+  - Identified factors contributing to match wins.
+
 ## 🛠️ Tools & Technologies
 
 - **Language**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Platform**: Jupyter Notebook
+
+
 
 
 
